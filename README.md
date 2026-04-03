@@ -145,14 +145,6 @@ pip install pandas matplotlib seaborn jupyter
 
 ---
 
-## 👤 Author
-
-**[Your Name]**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-
----
-
 ## 📄 License
 
 This project is for educational and portfolio purposes. Data is fictional/simulated for analysis practice.
