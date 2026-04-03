@@ -1,1 +1,0 @@
-# TeddyWorld-Optimize-Pareto
